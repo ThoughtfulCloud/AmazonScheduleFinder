@@ -17,3 +17,7 @@ This is a power shell script to notify you of open schedules for Amazon Whole Fo
 
 **Once you're done with using this script you can revert the policy update**
  - Set-ExecutionPolicy -ExecutionPolicy Undefined -Scope CurrentUser  
+ 
+ ### How to run
+  1. Download AmazonScheduleFinder.ps1
+  2. Run with PowerShell.
