@@ -4,7 +4,7 @@ This is a power shell script to notify you of open schedules for Amazon Whole Fo
 **Note** This is tested to only work in the east coast in the U.S. Make sure you see the same screen as the screenshot below. 
 
 ## Requirement:
-1. Window Machine
+1. Window Machine (using Internet Explorer...I know this is basic version for now :) )
 2. You must enable permission to run power shell.  See instruction below
 3. This only works after you have already logged into your Amazon account and with everything selected in your cart and you must already see the below screen:
 
