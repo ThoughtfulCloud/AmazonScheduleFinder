@@ -1,2 +1,9 @@
 # AmazonScheduleFinder
-This is a power shell script to notify you of open schedules
+This is a power shell script to notify you of open schedules for Amazon Whole Food Delivery.
+
+Requirement:
+1. Window Machine
+2. You must enable permission to run power shell.  See instruction below
+3. This only works after you have already logged into your Amazon account and with everything selected in your cart and you must already see the below screen:
+
+
