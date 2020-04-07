@@ -31,5 +31,5 @@ while(0 -lt 1){
         [console]::beep()
     }
 
-    Start-Sleep -Seconds 500
+    Start-Sleep -Seconds 300
 }
