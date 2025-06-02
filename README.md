@@ -12,6 +12,7 @@ This is a power shell script to notify you of open schedules for Amazon Whole Fo
 
 ### Instruction to set up Power Shell:
 *Use below to temporarily bypass Execution Policy.  Make sure to run below in separate PowerShell App as Admin*
+
 Set-ExecutionPolicy -ExecutionPolicy ByPass -Scope Process -Force
  
  
