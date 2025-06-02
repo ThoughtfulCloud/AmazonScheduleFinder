@@ -11,12 +11,9 @@ This is a power shell script to notify you of open schedules for Amazon Whole Fo
 ![alt tag](screen.jpg "Screen shot of check out")
 
 ### Instruction to set up Power Shell:
-*Use below to assign Execution Policy.  Make sure to run below in separate PowerShell App as Admin*
- - Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser  
-
-
-**Once you're done with using this script you can revert the policy update**
- - Set-ExecutionPolicy -ExecutionPolicy Undefined -Scope CurrentUser  
+*Use below to temporarily bypass Execution Policy.  Make sure to run below in separate PowerShell App as Admin*
+Set-ExecutionPolicy -ExecutionPolicy ByPass -Scope Process -Force
+ 
  
  ### How to run
   1. Download AmazonScheduleFinder.ps1
